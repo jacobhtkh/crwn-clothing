@@ -1,3 +1,3 @@
-# Crown Clothing ZTM E-Commerce React Project
+# Crown Clothing E-Commerce React Project
 
 [HEROKO LIVE DEMO](https://crwn-live-htkh.herokuapp.com)
